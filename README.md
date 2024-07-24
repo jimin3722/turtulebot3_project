@@ -10,4 +10,4 @@ lidar data processing : scan_to_pcl.cpp
 
 cotrol robot : path_tracking.cpp
 
-링크 : https://youtu.be/26hnsnoppi4
+작동 영상 링크 : https://youtu.be/26hnsnoppi4
